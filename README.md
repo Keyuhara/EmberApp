@@ -1,7 +1,7 @@
 # EmberApp
 Ember: A FIRE Calculator
 
-Add the GUI and basic layout for the project.
+Added the GUI and basic layout for the project.
 
 Todo:
 Scene changes.
