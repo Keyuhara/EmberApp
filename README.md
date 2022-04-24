@@ -1,11 +1,19 @@
 # EmberApp
 Ember: A FIRE Calculator
 
-Added the GUI and basic layout for the project.
+Change Log:
+-revamped the design and function of app to a working version
+-four scenes:
+  +main
+  +question1
+  +question2
+  +graph
+-can now calculate portfolio growth with basic assumptions:
+  +withdrawal is 4%
+  +portfolio return is &%
 
-Todo:
-Scene changes.
-Make TextFields store values for use in the graph calculation.
-The graph itself.
-GraphModel.java
-Any other tweaks as necessary.
+To Do:
+-add exceptions to input in order to verify format
+-proper description to README
+-make UML
+-record video
