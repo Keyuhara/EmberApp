@@ -48,7 +48,7 @@
                         <Font size="24.0" />
                      </font>
                      <tooltip>
-                        <Tooltip text="The age you are today." />
+                        <Tooltip text="Your current age." />
                      </tooltip>
                   </TextField>
                </children>
