@@ -46,7 +46,7 @@
                   </Text>
                   <Text fx:id="timeText" strokeType="OUTSIDE" strokeWidth="0.0" text="X YEARS BY AGE Y" textAlignment="CENTER">
                      <font>
-                        <Font name="System Bold" size="30.0" />
+                        <Font name="System Bold" size="28.0" />
                      </font>
                   </Text>
                   <LineChart fx:id="chart" prefHeight="388.0" prefWidth="480.0">

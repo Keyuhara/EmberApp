@@ -272,6 +272,8 @@ public class GraphModel
 		int portfolio = savings;
 		int ageTracker = age;
 		
+		data.clear();
+		
 		while( portfolio < goal )
 		{
 			if( ageTracker > 65 )
@@ -308,6 +310,8 @@ public class GraphModel
 	{
 		int goal = getFIREGoal();
 		int ageTracker = age;
+		
+		target.clear();
 		
 		for( int i = age; i < maxAge; i++ )
 		{

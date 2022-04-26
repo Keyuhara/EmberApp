@@ -87,7 +87,7 @@ public class GraphController implements Initializable
 			else
 			{
 				firstText.setText( "You won't achieve\nFinancial Independence in time" );
-				timeText.setText( "YOU SHOULD SAVE MORE" );
+				timeText.setText( "YOU SHOULD SAVE MORE EARLY" );
 				goalText.setText( "FIRE GOAL: $" + String.format("%,d", model.getFIREGoal()) );
 			}
 		}
