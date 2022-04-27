@@ -23,6 +23,12 @@ Daniel Rodriguez
 The Ember application is a quick and simple calculator designed to figure out how much money you need to save and invest in order to retire early.
 ```
 
+How to run the app:
+```
+File > Import > General > Existing Projects Into Workspace > Select EmberApp-main.zip > Finish
+Run Main.java
+```
+
 5. Known Bugs:
 ```
 N/A None detected so far.
